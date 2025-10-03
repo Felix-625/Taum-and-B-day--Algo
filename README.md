@@ -1,1 +1,3 @@
 # Taum-and-B-day--Algo
+
+This problem which calculates the minimum cost of buying black and white gifts considering the possibility of converting one type of gift to the other at a certain cost. The `taumBday` function determines the cheaper option for each gift type—either buying directly or converting from the other color—and then calculates the total cost accordingly. The `main` function reads multiple test cases, processes input using helper functions `ltrim`, `rtrim`, and `split` for clean parsing, and outputs the result for each case to a file. This approach ensures that the cost is minimized by smartly choosing when to buy directly or convert gifts.
